@@ -1,2 +1,1 @@
-# POO
-# POO
+# learning POO in python
